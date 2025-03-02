@@ -1054,7 +1054,7 @@ body {
   }
 
   .hero-content h1 {
-    display: none;
+    visibility: hidden;
   }
 
   
