@@ -1052,6 +1052,12 @@ body {
     margin: 0; /* Remove any margins that might have been pushing it */
     text-align: center; /* Ensure text is centered */
   }
+
+  .hero-content h1 {
+    display: none;
+  }
+
+  
 }
 
 
@@ -1891,7 +1897,10 @@ img {
     gap: 1rem;
     margin: 0;
     padding: 0 1rem;
-}
+}  
+
+
+
 
 @media (max-width: 768px) {
     .heading-with-images {
